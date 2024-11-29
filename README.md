@@ -9,10 +9,7 @@
 
 - ⚡ Fun fact **Sometimes I think Im a Spider Man🕸️🕷️**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    **Metythorn@gmail.com**
-</p>
+<h3 align="left">Connect with me: In Gotham City</h3>
 
 # Languages and Tools:
 
