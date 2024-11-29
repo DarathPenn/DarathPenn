@@ -21,5 +21,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=DarathPenn&theme=alduin"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselalhide=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=socheatathai&layout=compact&theme=vision-friendly-dark" />
 
 
