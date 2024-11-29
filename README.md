@@ -20,5 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarathPenn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://github-profile-trophy.vercel.app/?username=DarathPenn&theme=alduin"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarathPenn=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 
 
