@@ -17,7 +17,6 @@
 # My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DarathPenn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DarathPenn&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarathPenn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://github-profile-trophy.vercel.app/?username=DarathPenn&theme=alduin"/>
 
