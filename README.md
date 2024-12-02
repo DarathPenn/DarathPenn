@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- ⚡ Fun fact **Sometimes I think Im a Spider Man🕸️🕷️**
+- ⚡ Fun fact **Who the hell are you**
 
 <h3 align="left">Connect with me: In Gotham City</h3>
 
